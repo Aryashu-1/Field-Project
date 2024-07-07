@@ -1,0 +1,68 @@
+[
+    {
+      "name": "Tech Innovators Inc.",
+      "description": "A startup focused on developing cutting-edge AI solutions.",
+      "logo": "https://media.licdn.com/dms/image/C561BAQGfdzdjV4rIOg/company-background_10000/0/1611995751406/techinnovators_cover?e=2147483647&v=beta&t=9xMs5lYbHvxwyPYDb2SldFjeXqBYd1BMqcUKUmp3ykg",
+     "studentIds": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"],
+      "facultyIds":  ["668a7034a254f2e8916fb3c2", "668a7034a254f2e8916fb3c1"],
+      "industryIds": ["668a793da254f2e8916fb3d9", "668a793da254f2e8916fb3de"]
+    },
+    {
+      "name": "Eco Solutions",
+      "description": "A startup dedicated to creating sustainable energy solutions.",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRLyK0ygEdwpQRN0Me3C1PvLn8JMBaacL_Q&s",
+      "studentIds":  ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"],
+      "facultyIds": ["668a7034a254f2e8916fb3bd", "668a7034a254f2e8916fb3be"],
+      "industryIds":["668a793da254f2e8916fb3dc", "668a793da254f2e8916fb3d7"]
+    },
+    {
+      "name": "HealthTech Innovations",
+      "description": "A startup focused on developing innovative healthcare solutions.",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZPw-ZmqXiIrNAdny-Etdacrkw-fWDFmwdQ&s",
+      "studentIds": ["668a6cafa254f2e8916fb3a2", "668a6cafa254f2e8916fb3a3"],
+      "facultyIds":  ["668a7034a254f2e8916fb3bb", "668a7034a254f2e8916fb3bc"],
+      "industryIds":["668a793da254f2e8916fb3d6", "668a793da254f2e8916fb3dc"]
+    },
+    {
+      "name": "FinTech Solutions",
+      "description": "A startup aiming to revolutionize the financial industry with technology.",
+      "logo": "",
+      "studentIds": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"],
+
+      "facultyIds": ["668a7034a254f2e8916fb3c2", "668a7034a254f2e8916fb3c1"],
+      "industryIds":  ["668a793da254f2e8916fb3d9", "668a793da254f2e8916fb3de"]
+    },
+    {
+      "name": "AgriTech Innovations",
+      "description": "A startup focused on improving agricultural practices with technology.",
+      "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpelFD4fGmcK3CH6TOg-W4mwLzJZybyJRdA&s",
+      "studentIds": ["668a6cafa254f2e8916fb3a0", "668a6cafa254f2e8916fb3a1"],
+      "facultyIds": ["60d0fe4f5311236168a10c22", "60d0fe4f5311236168a10c23"],
+      "industryIds": ["668a793da254f2e8916fb3d5", "668a793da254f2e8916fb3db"]
+    },
+    {
+      "name": "EduTech Solutions",
+      "description": "A startup dedicated to transforming education with innovative technology.",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3kuH9poNjUJNM8HuvhIl1nFTYCoCC1tQOfQ&s",
+      "studentIds": ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"],
+      "facultyIds": ["668a7034a254f2e8916fb3bd", "668a7034a254f2e8916fb3be"],
+      "industryIds":["668a793da254f2e8916fb3dc", "668a793da254f2e8916fb3d7"]
+    },
+    {
+      "name": "CleanTech Innovations",
+      "description": "A startup focused on developing environmentally friendly technologies.",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoa2id-tPSOnI5ACtJgbSD-N02OHJIDiJJbw&s",
+      "studentIds": ["668a6cafa254f2e8916fb3a6", "668a6cafa254f2e8916fb3a7"],
+      "facultyIds": ["668a7034a254f2e8916fb3bf", "668a7034a254f2e8916fb3c0"],
+
+      "industryIds":["668a793da254f2e8916fb3dd", "668a793da254f2e8916fb3d8"]
+    },
+    {
+      "name": "SmartCity Solutions",
+      "description": "A startup focused on developing smart city technologies.",
+      "logo": "https://solutions.aaeon.com/wp-content/uploads/2021/06/Smartcity_info_v3.png",
+      "studentIds":["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"],
+      "facultyIds": ["668a7034a254f2e8916fb3c2", "668a7034a254f2e8916fb3c1"],
+      "industryIds":  ["668a793da254f2e8916fb3d9", "668a793da254f2e8916fb3de"]
+    }
+  ]

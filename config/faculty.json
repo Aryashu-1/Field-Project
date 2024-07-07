@@ -1,0 +1,147 @@
+[
+    {
+       
+      "name": "Dr. John Doe",
+      "imageUrls":[],
+      "roomNo": "B123",
+      "details": "Expert in Structural Engineering and Material Sciences.",
+      "socialMedia": ["http://twitter.com/drjohndoe", "http://linkedin.com/in/drjohndoe"],
+      "contact": ["+1-555-123-4567"],
+      "department": ["Civil Engineering"],
+      "role": ["Professor"],
+      "mail": ["johndoe@university.edu"],
+      "studentIds":  ["668a6cafa254f2e8916fb3a1", "668a6cafa254f2e8916fb3a0"]
+    },
+    {
+      "name": "Dr. Jane Smith",
+      "imageUrls":[],
+      "roomNo": "C234",
+      "details": "Specializes in Computer Networks and Cybersecurity.",
+      "socialMedia": ["http://twitter.com/drjanesmith", "http://linkedin.com/in/drjanesmith"],
+      "contact": ["+1-555-234-5678"],
+      "department": ["Computer Engineering"],
+      "role": ["Associate Professor"],
+      "mail": ["janesmith@university.edu"],
+      "studentIds":  ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"]
+    },
+    {
+      "name": "Dr. Alan Brown",
+      "imageUrls":[],
+      "roomNo": "D345",
+      "details": "Researcher in Signal Processing and Wireless Communication.",
+      "socialMedia": ["http://twitter.com/dralanbrown", "http://linkedin.com/in/dralanbrown"],
+      "contact": ["+1-555-345-6789"],
+      "department": ["Electronics & Telecommunication Engineering"],
+      "role": ["Professor"],
+      "mail": ["alanbrown@university.edu"],
+      "studentIds":["668a6cafa254f2e8916fb3a6", "668a6cafa254f2e8916fb3a7"]
+    },
+    {
+      "name": "Dr. Emily White",
+      "imageUrls":[],
+      "roomNo": "E456",
+      "details": "Expert in Data Mining and Machine Learning.",
+      "socialMedia": ["http://twitter.com/dremilywhite", "http://linkedin.com/in/dremilywhite"],
+      "contact": ["+1-555-456-7890"],
+      "department": ["Information Technology"],
+      "role": ["Assistant Professor"],
+      "mail": ["emilywhite@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a1", "668a6cafa254f2e8916fb3a0"]
+    },
+    {
+      "name": "Dr. Michael Green",
+      "roomNo": "F567",
+      "imageUrls":[],
+      "details": "Specializes in Thermodynamics and Fluid Mechanics.",
+      "socialMedia": ["http://twitter.com/drmichaelgreen", "http://linkedin.com/in/drmichaelgreen"],
+      "contact": ["+1-555-567-8901"],
+      "department": ["Mechanical Engineering"],
+      "role": ["Professor"],
+      "mail": ["michaelgreen@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a6", "668a6cafa254f2e8916fb3a7"]
+    },
+    {
+      "name": "Dr. Lisa Blue",
+      "roomNo": "G678",
+      "imageUrls":[],
+      "details": "Researcher in Quantum Physics and Nanotechnology.",
+      "socialMedia": ["http://twitter.com/drlisablue", "http://linkedin.com/in/drlisablue"],
+      "contact": ["+1-555-678-9012"],
+      "department": ["Engineering & Applied Sciences"],
+      "role": ["Associate Professor"],
+      "mail": ["lisablue@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"]
+    },
+    {
+      "name": "Dr. Kevin Black",
+      "roomNo": "H789",
+      "imageUrls":[],
+      "details": "Expert in Artificial Intelligence and Data Science.",
+      "socialMedia": ["http://twitter.com/drkevinblack", "http://linkedin.com/in/drkevinblack"],
+      "contact": ["+1-555-789-0123"],
+      "department": ["AI and DS"],
+      "role": ["Professor"],
+      "mail": ["kevinblack@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a2", "668a6cafa254f2e8916fb3a3"]
+    },
+    {
+      "name": "Dr. Sarah Grey",
+      "imageUrls":[],
+      "roomNo": "I890",
+      "details": "Researcher in AI and its applications in robotics.",
+      "socialMedia": ["http://twitter.com/drsarahgrey", "http://linkedin.com/in/drsarahgrey"],
+      "contact": ["+1-555-890-1234"],
+      "department": ["CSE (AI)"],
+      "role": ["Assistant Professor"],
+      "mail": ["sarahgrey@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"]
+    },
+    {
+      "name": "Dr. Mark Red",
+      "imageUrls":[],
+      "roomNo": "J901",
+      "details": "Expert in AI and Machine Learning.",
+      "socialMedia": ["http://twitter.com/drmarkred", "http://linkedin.com/in/drmarkred"],
+      "contact": ["+1-555-901-2345"],
+      "department": ["CSE (AI & ML)"],
+      "role": ["Professor"],
+      "mail": ["markred@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a6", "668a6cafa254f2e8916fb3a7"]
+    },
+    {
+      "name": "Dr. Laura Purple",
+      "roomNo": "K012",
+      "imageUrls":[],
+      "details": "Specializes in IoT and Cyber-Physical Systems.",
+      "socialMedia": ["http://twitter.com/drlaurapurple", "http://linkedin.com/in/drlaurapurple"],
+      "contact": ["+1-555-012-3456"],
+      "department": ["CSE (IoT, CS & BT)"],
+      "role": ["Associate Professor"],
+      "mail": ["laurapurple@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"]
+    },
+    {
+      "name": "Dr. Brian White",
+      "roomNo": "L123",
+      "imageUrls":[],
+      "details": "Expert in Software Engineering and DevOps.",
+      "socialMedia": ["http://twitter.com/drbrianwhite", "http://linkedin.com/in/drbrianwhite"],
+      "contact": ["+1-555-123-4567"],
+      "department": ["CE (Software Engineering)"],
+      "role": ["Professor"],
+      "mail": ["brianwhite@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a2", "668a6cafa254f2e8916fb3a3"]
+    },
+    {
+      "name": "Dr. Megan Blue",
+      "roomNo": "M234",
+      "imageUrls":[],
+      "details": "Researcher in Data Science and Big Data Analytics.",
+      "socialMedia": ["http://twitter.com/drmeganblue", "http://linkedin.com/in/drmeganblue"],
+      "contact": ["+1-555-234-5678"],
+      "department": ["CSE (Data Science)"],
+      "role": ["Assistant Professor"],
+      "mail": ["meganblue@university.edu"],
+      "studentIds": ["668a6cafa254f2e8916fb3a1", "668a6cafa254f2e8916fb3a0"]
+    }
+  ]

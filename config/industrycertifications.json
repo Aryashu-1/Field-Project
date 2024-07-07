@@ -1,0 +1,50 @@
+[
+    {
+      "name": "AI for Social Media",
+      "industryPartners": ["668a793da254f2e8916fb3d5", "668a793da254f2e8916fb3db"],
+      "facultyPartners": ["668a7034a254f2e8916fb3b9", "668a7034a254f2e8916fb3ba"],
+      "description": "This course covers the application of artificial intelligence in enhancing social media platforms, including content recommendation and user engagement.",
+      "imageUrls": ["https://predis.ai/resources/wp-content/uploads/2022/11/F3C611-52-1.png", "https://cdn.prod.website-files.com/62bcc33c3dc7b1c46009dcb0/632da0a08276ea5b93d39bf0_image_750x422_606ab2f4e40b1.jpeg"],
+      "studentIds": ["668a6cafa254f2e8916fb3a0", "668a6cafa254f2e8916fb3a1"]
+    },
+    {
+      "name": "Innovative Hardware Design",
+      "industryPartners": ["668a793da254f2e8916fb3d6", "668a793da254f2e8916fb3dc"],
+      "facultyPartners": ["668a7034a254f2e8916fb3bb", "668a7034a254f2e8916fb3bc"],
+      "description": "Learn the latest techniques and technologies in hardware design and development, in collaboration with Apple.",
+      "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4lSKa5wsVi0zEGVWBiYJhDHd256V2w6qiOQ&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-EAeYKTI_pJAlTM0F42A0jCOXFhalUWyKZAESE__UmJ4VtT6tJm8s13AbZ9znRbHnDuo&usqp=CAU"],
+      "studentIds": ["668a6cafa254f2e8916fb3a2", "668a6cafa254f2e8916fb3a3"]
+    },
+    {
+      "name": "Cloud Computing Essentials",
+      "industryPartners": ["668a793da254f2e8916fb3d7", "668a793da254f2e8916fb3dd"],
+      "facultyPartners": ["668a7034a254f2e8916fb3bd", "668a7034a254f2e8916fb3be"],
+      "description": "This course offers a comprehensive overview of cloud computing, with practical insights from Amazon Web Services.",
+      "imageUrls": ["https://img-c.udemycdn.com/course/480x270/4257932_77e6.jpg", "https://media.licdn.com/dms/image/D4D12AQHM01eoFOKHnQ/article-cover_image-shrink_600_2000/0/1674019935019?e=2147483647&v=beta&t=koRHczW2WLK6UB4B__g5UE2gOX3NpI7Un9nQQViUyEk"],
+      "studentIds": ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"]
+    },
+    {
+      "name": "Advanced Streaming Technology",
+      "industryPartners": ["668a793da254f2e8916fb3d8", "668a793da254f2e8916fb3de"],
+      "facultyPartners": ["668a7034a254f2e8916fb3bf", "668a7034a254f2e8916fb3c0"],
+      "description": "Explore the latest advancements in streaming technology and content delivery networks with Netflix experts.",
+      "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBUT3E1igBPLB60O6aMtei1ZlSqEmGi6Ubg&s", "https://cdn.sanity.io/images/pjiwic7p/production/f7d7cd02f35425acdc1f35f794cbeffc10080335-721x506.jpg?auto=format"],
+      "studentIds": ["668a6cafa254f2e8916fb3a6", "668a6cafa254f2e8916fb3a7"]
+    },
+    {
+      "name": "Search Algorithms and Optimization",
+      "industryPartners": ["668a793da254f2e8916fb3d9", "668a793da254f2e8916fb3df"],
+      "facultyPartners": ["668a7034a254f2e8916fb3c2", "668a7034a254f2e8916fb3c1"],
+      "description": "Dive into the world of search algorithms and learn how Google optimizes its search engine.",
+      "imageUrls": ["https://www.wowza.com/wp-content/uploads/Graphics-Streaming-Trends_BlogThumbnail-690x350-1.png", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTob1p2PaugdttcLakQOPiMKjSdvofteeDPGm6D0ohNFNuMXZSjn4-23pcvvnt8VedazI&usqp=CAU"],
+      "studentIds": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"]
+    },
+    {
+      "name": "IT Services and Business Solutions",
+      "industryPartners": ["668a793da254f2e8916fb3da", "668a793da254f2e8916fb3e0"],
+      "facultyPartners": ["668a7034a254f2e8916fb3c2", "668a7034a254f2e8916fb3c3"],
+      "description": "Gain in-depth knowledge about IT services and business process outsourcing with insights from TCS.",
+      "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_nVuBTsTTimiZPe0cr0g5WW7Esxlzf4BQg&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cQzgY3EGGKjk1rhKTBWSfzZXMm4OwkQjPA&s"],
+      "studentIds": ["668a6cafa254f2e8916fb3a6", "668a6cafa254f2e8916fb3a7"]
+    }
+  ]

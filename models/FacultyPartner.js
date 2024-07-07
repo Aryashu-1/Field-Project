@@ -21,6 +21,9 @@ const FacultyPartnerSchema = new mongoose.Schema({
   department: {
     type: [String]
   },
+  imageUrls: {
+    type: [String]
+  },
   role: {
     type: [String]
   },

@@ -1,0 +1,123 @@
+[
+    {
+      "name": "AI-driven Market Analysis",
+      "description": "Using AI to analyze market trends for better decision-making.",
+      "industryPartnerId": ["668a793da254f2e8916fb3d8"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3be"],
+      "studentPartnerId": ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"],
+      "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPs8EjyiRV5amvO3P1kgR7Y_42xHZBrkOIWw&s","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIvjGHFn-RbMP0m_PzWzujafKTlbaIATbog&s"],
+      
+      "isCollaboration": false,
+      "isConsultancy": true,
+      "industryId":[ "668a754ea254f2e8916fb3cc"]
+    },
+    {
+      "name": "Blockchain for Supply Chain",
+      "description": "Implementing blockchain technology to enhance supply chain transparency.",
+      "industryPartnerId":["668a793da254f2e8916fb3d5"] ,
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bf"],
+      "studentPartnerId":["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"] ,
+      "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Swymp5jUHnl1KuScLtIsXwGoF82G8pK9bw&s","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzSw5kAEGFJXSiDYCS5ZZmfpU2MNhCBTH9w&s"],
+   
+      "isCollaboration": false,
+      "isConsultancy": true,
+      "industryId": ["668a754ea254f2e8916fb3c9"]
+    },
+    {
+      "name": "Renewable Energy Integration",
+      "description": "Consultancy project on integrating renewable energy sources into the grid.",
+      "industryPartnerId":["668a793da254f2e8916fb3d6"] ,
+      "facultyPartnerId":["668a7034a254f2e8916fb3c3"],
+      "studentPartnerId":  ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"],
+      "imageUrls": ["https://ars.els-cdn.com/content/image/1-s2.0-S2352152X19316962-gr5.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDHHwXecMQV8TUxDy7GaqH4VZuu0iTnAIAg&s"],
+
+      "isCollaboration": false,
+      "isConsultancy": true,
+      "industryId": ["668a754ea254f2e8916fb3ca"]
+    },
+    {
+      "name": "Smart Home Automation",
+      "description": "Developing smart home automation systems for improved convenience.",
+      "industryPartnerId":["668a793da254f2e8916fb3d7"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bc"],
+      "studentPartnerId": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"],
+      "imageUrls": ["https://miro.medium.com/v2/resize:fit:1400/1*eumNIzPYyE8X7On5iM02Hw.jpeg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_i7iyK8MRUCVNjnf4pJWnaQ4UhJJHYQ--A&s"],
+      "researchPublicationId": "60c72b1f9f1b2c001f8e4d13",
+      "isCollaboration": false,
+      "isConsultancy": true,
+      "industryId":[ "668a754ea254f2e8916fb3cb"]
+    },
+    {
+      "name": "Cybersecurity Risk Assessment",
+      "description": "Assessing cybersecurity risks for a financial institution.",
+      "industryPartnerId":["668a793da254f2e8916fb3d8"] ,
+      "facultyPartnerId":["668a7034a254f2e8916fb3bf"],
+      "studentPartnerId":["668a6cafa254f2e8916fb3a6", "668a6cafa254f2e8916fb3a7"],
+      "imageUrls": ["https://media.licdn.com/dms/image/D4D12AQGAFg9H1WruAA/article-cover_image-shrink_720_1280/0/1659681486548?e=2147483647&v=beta&t=sb7tFR2FjLcfZurQWhbI67by6OT5BVhrwDUmGPLEaVw","https://reciprocity.com/wp-content/uploads/2021/05/blog_5-steps-perform-cyberrisk-assessment_featured-img_730x270.jpg"],
+      "researchPublicationId": "60c72b1f9f1b2c001f8e4d18",
+      "isCollaboration": false,
+      "isConsultancy": true,
+      "industryId": [ "668a754ea254f2e8916fb3cc"]
+    },
+    {
+      "name": "AI-based Medical Diagnostics",
+      "description": "Collaborative project on developing AI-based diagnostics tools.",
+      "industryPartnerId":[ "668a793da254f2e8916fb3d9"] ,
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c0"],
+      "studentPartnerId": ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"],
+      "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Kda3eLglJgbPAL86_9G9W9CNeVwcHHrofw&s","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUiLySyI_ZvJqAyC0AdFAO-ORDvSEG-NadKw&s"],
+      "researchPublicationId": "60c72b1f9f1b2c001f8e4d1d",
+      "isCollaboration": true,
+      "isConsultancy": false,
+      "industryId":["668a754ea254f2e8916fb3ce"]
+    },
+    {
+      "name": "IoT in Smart Agriculture",
+      "description": "Exploring IoT applications in agriculture for improved productivity.",
+      "industryPartnerId": ["668a793da254f2e8916fb3da"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c1"],
+      "studentPartnerId":["668a6cafa254f2e8916fb3a2", "668a6cafa254f2e8916fb3a3"] ,
+      "imageUrls": ["https://example.com/images/smart_agriculture1.png"],
+      "researchPublicationId": "60c72b1f9f1b2c001f8e4d22",
+      "isCollaboration": true,
+      "isConsultancy": false,
+      "industryId": ["668a754ea254f2e8916fb3c9"]
+    },
+    {
+      "name": "Wearable Health Monitoring",
+      "description": "Collaborative project on developing wearable health monitoring devices.",
+      "industryPartnerId":["668a793da254f2e8916fb3db"] ,
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c2"],
+      "studentPartnerId": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"],
+      "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYME81Vb9pdrclhlvtr0bKa1rwJbB78A9oxQ&s","https://images.squarespace-cdn.com/content/v1/60818be3726c6c6c3f24a841/1627927240938-V65ND2LFWRO322LJNT3Q/AdobeStock_275432875.jpeg"],
+      "researchPublicationId": "60c72b1f9f1b2c001f8e4d27",
+      "isCollaboration": true,
+      "isConsultancy": false,
+      "industryId":["668a754ea254f2e8916fb3ca"]
+    },
+    {
+      "name": "Advanced Robotics for Manufacturing",
+      "description": "Developing advanced robotics solutions for manufacturing processes.",
+      "industryPartnerId":["668a793da254f2e8916fb3dc"],
+      "facultyPartnerId":["668a7034a254f2e8916fb3c3"] ,
+      "studentPartnerId": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"],
+      "imageUrls": ["https://www.sme.org/globalassets/sme.org/technologies/articles/2020/08---august/featured-image-siemens-testcenter-768x432.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0NWK9y-SjwVTlxbo9BRSahuyjwshxBv-Jg&s"],
+      "researchPublicationId": "60c72b1f9f1b2c001f8e4d2c",
+      "isCollaboration": true,
+      "isConsultancy": false,
+      "industryId": ["668a754ea254f2e8916fb3cb"]
+    },
+    {
+      "name": "Big Data Analytics for Retail",
+      "description": "Using big data analytics to enhance retail strategies.",
+      "industryPartnerId": [ "668a793da254f2e8916fb3dd"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c4"],
+      "studentPartnerId":  ["668a6cafa254f2e8916fb3a2", "668a6cafa254f2e8916fb3a3"],
+      "imageUrls": ["https://images.prismic.io/turing/652ec815fbd9a45bcec81a54_Big_Data_in_Retail_27540f2804.webp?auto=format,compress","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREw9LCYc2Mx4r3qnQXrgVuZGzQRROb579lvQ&s"],
+      "researchPublicationId": "60c72b1f9f1b2c001f8e4d31",
+      "isCollaboration": true,
+      "isConsultancy": false,
+      "industryId": ["668a754ea254f2e8916fb3cc"]
+    }
+   
+  ]

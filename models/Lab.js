@@ -14,14 +14,16 @@ const LabSchema = new mongoose.Schema({
     required: true
   },
   facultyPartnerIds: {
+    type:[{
     type: [mongoose.Schema.Types.ObjectId],
     ref: 'FacultyPartner',
-    required: true
+    required: true}]
   },
   industryPartnerIds: {
+    type:[{
     type: [mongoose.Schema.Types.ObjectId],
     ref: 'IndustryPartner',
-    required: true
+    required: true}]
   },
   description: {
     type: String,

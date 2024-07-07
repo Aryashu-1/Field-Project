@@ -1,0 +1,48 @@
+[{
+    "name": "Social Media Analytics",
+    "imageUrls": ["https://media.licdn.com/dms/image/D5612AQETqxJo_VHn-A/article-cover_image-shrink_720_1280/0/1681455422991?e=2147483647&v=beta&t=6jHZMwkwqOScNB2WSv8TztqzKQBTNvQj1UblONNTxI0", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_dOaX9BLvPrtrU1sRUqePCYyC9TMCJTKifK1TiMIcYfZgQghrXCb_vFjMX_bS86KFzo&usqp=CAU"],
+    "industryPartnerIds": ["668a793da254f2e8916fb3d5"],
+    "description": "An advanced course on analyzing social media data using AI and machine learning techniques.",
+    "facultyPartnerIds": ["668a7034a254f2e8916fb3b9", "668a7034a254f2e8916fb3ba"]
+  },
+  {
+    "name": "Ethics in AI",
+    "imageUrls": ["https://media.sproutsocial.com/uploads/2023/08/AI-ethics-Final.png", "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt0e74c495079de370/64f6f9941b4bf60cc60681fc/AI-ethics-ArtemisDiana_-alamy.jpg?width=850&auto=webp&quality=95&format=jpg&disable=upscale"],
+    "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+    "description": "Explore ethical considerations in AI development and deployment within social media platforms.",
+    "facultyPartnerIds": ["668a7034a254f2e8916fb3bb", "668a7034a254f2e8916fb3bc"]
+  }
+  ,
+  {
+    "name": "iOS App Development",
+    "imageUrls": ["https://riseuplabs.com/wp-content/uploads/2021/08/iOS-app-development-feature-image.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3QhSSzFu3Swv_nqjF4UrRaIbU9e7SQcYFgjifxhm5s7K_B5cnYJUef3err5bitxMBT4&usqp=CAU"],
+    "industryPartnerIds": ["668a793da254f2e8916fb3d7"],
+    "description": "Learn to develop iOS applications with hands-on projects and guidance from Apple engineers.",
+    "facultyPartnerIds": ["668a7034a254f2e8916fb3bd", "668a7034a254f2e8916fb3be"]
+  },
+
+{
+    "name": "Cloud Security Fundamentals",
+    "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3a4MiYtGvP2STaNOgZPfGCGc35iScAwYNg&s", "https://files.codingninjas.in/article_images/introduction-to-cloud-security-1-1647713017.webp"],
+    "industryPartnerIds": ["668a793da254f2e8916fb3d8"],
+    "description": "Explore essential concepts in cloud security with practical examples and case studies.",
+    "facultyPartnerIds": ["668a7034a254f2e8916fb3bf", "668a7034a254f2e8916fb3c0"]
+  },
+  {
+    "name": "Data Analytics in AWS",
+    "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRidlS4BSGyW9tMyeSg0ZR_zBYrWT9t_jaHGg&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9E_xV3FUg23nKjkAh9AQxCBiEkJsNOrDc5w&s"],
+    "industryPartnerIds": ["668a793da254f2e8916fb3d9"],
+    "description": "Learn data analytics tools and techniques within the AWS ecosystem.",
+    "facultyPartnerIds": ["668a7034a254f2e8916fb3c1", "668a7034a254f2e8916fb3c2"]
+  }
+,
+{
+    "name": "Content Creation Strategies",
+    "imageUrls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStuB4YwXjL9w5WzcEtZxnlWda2ihEct4HXmA&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCvT_xTurvASbgB3oiPWIwwR4_3tSiuX0f4-dgjXvqlj5rQ4koQeu7Sh5igA8ZMsWz0I&usqp=CAU"],
+    "industryPartnerIds": ["668a793da254f2e8916fb3da"],
+    "description": "Explore strategies and best practices for creating engaging content on digital platforms.",
+    "facultyPartnerIds": ["668a7034a254f2e8916fb3c3", "668a7034a254f2e8916fb3c4"]
+  }
+
+
+]

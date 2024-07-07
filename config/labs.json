@@ -1,0 +1,559 @@
+[
+
+    {
+      "department": "Civil Engineering",
+      "location": "Building A",
+  
+      "areaSquareFeet": 1500,
+      "facultyPartnerIds": ["668a793da254f2e8916fb3de"],
+      "industryPartnerIds": ["668a7034a254f2e8916fb3c3"],
+      "description": "Laboratory dedicated to research and practical applications in Civil Engineering.",
+      "imageUrls": [
+        "https://example.com/lab1.jpg",
+        "https://example.com/lab1a.jpg"
+      ]
+    },
+    {
+      "department": "Civil Engineering",
+      "location": "Building B",
+      "area": "Geotechnical Engineering",
+      "areaSquareFeet": 1200,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c4"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3dd"],
+      "description": "Laboratory focused on soil mechanics and geotechnical research.",
+      "imageUrls": [
+        "https://example.com/lab2.jpg",
+        "https://example.com/lab2a.jpg"
+      ]
+    },
+    {
+      "department": "Civil Engineering",
+      "location": "Building C",
+      "area": "Environmental Engineering",
+      "areaSquareFeet": 1800,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c1"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3dc"],
+      "description": "Laboratory specializing in environmental impact assessments and remediation.",
+      "imageUrls": [
+        "https://example.com/lab3.jpg",
+        "https://example.com/lab3a.jpg"
+      ]
+    },
+    {
+      "department": "Civil Engineering",
+      "location": "Building D",
+      "area": "Transportation Engineering",
+      "areaSquareFeet": 1350,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bf"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3da"],
+      "description": "Laboratory conducting research in traffic engineering and transportation planning.",
+      "imageUrls": [
+        "https://example.com/lab4.jpg",
+        "https://example.com/lab4a.jpg"
+      ]
+    },
+  
+    {
+      "department": "Computer Engineering",
+      "location": "Building X",
+      "area": "Network Security",
+      "areaSquareFeet": 1400,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d7"],
+      "description": "Laboratory dedicated to network security research and cybersecurity.",
+      "imageUrls": [
+        "https://example.com/lab6.jpg",
+        "https://example.com/lab6a.jpg"
+      ]
+    },
+    {
+      "department": "Computer Engineering",
+      "location": "Building Y",
+      "area": "Artificial Intelligence",
+      "areaSquareFeet": 1250,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c0"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3df"],
+      "description": "Laboratory specializing in artificial intelligence and machine learning.",
+      "imageUrls": [
+        "https://example.com/lab7.jpg",
+        "https://example.com/lab7a.jpg"
+      ]
+    },
+    {
+      "department": "Computer Engineering",
+      "location": "Building Z",
+      "area": "Software Engineering",
+      "areaSquareFeet": 1650,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bf"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory focused on software engineering and development.",
+      "imageUrls": [
+        "https://example.com/lab8.jpg",
+        "https://example.com/lab8a.jpg"
+      ]
+    },
+    {
+      "department": "Computer Engineering",
+      "location": "Building P",
+      "area": "Data Science",
+      "areaSquareFeet": 1550,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3ba"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3da"],
+      "description": "Laboratory specializing in data analytics and data-driven research.",
+      "imageUrls": [
+        "https://example.com/lab9.jpg",
+        "https://example.com/lab9a.jpg"
+      ]
+    },
+    {
+      "department": "Computer Engineering",
+      "location": "Building Q",
+      "area": "Internet of Things",
+      "areaSquareFeet": 1450,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c0"],
+      "industryPartnerIds": [ "668a793da254f2e8916fb3e0"],
+      "description": "Laboratory focusing on IoT applications and research.",
+      "imageUrls": [
+        "https://example.com/lab10.jpg",
+        "https://example.com/lab10a.jpg"
+      ]
+    },
+  
+  
+    {
+      "department": "Electronics & Telecommunication Engineering",
+      "location": "Building E2",
+      "area": "Embedded Systems",
+      "areaSquareFeet": 1350,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c1"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d8"],
+      "description": "Laboratory focusing on embedded systems design and development.",
+      "imageUrls": [
+        "https://example.com/lab12.jpg",
+        "https://example.com/lab12a.jpg"
+      ]
+    },
+    {
+      "department": "Electronics & Telecommunication Engineering",
+      "location": "Building E3",
+      "area": "Wireless Communication",
+      "areaSquareFeet": 1450,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3ba"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3dd"],
+      "description": "Laboratory specializing in wireless communication technologies.",
+      "imageUrls": [
+        "https://example.com/lab13.jpg",
+        "https://example.com/lab13a.jpg"
+      ]
+    },
+    {
+      "department": "Electronics & Telecommunication Engineering",
+      "location": "Building E4",
+      "area": "Photonics",
+      "areaSquareFeet": 1300,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bc"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory focused on photonics and optical communication research.",
+      "imageUrls": [
+        "https://example.com/lab14.jpg",
+        "https://example.com/lab14a.jpg"
+      ]
+    },
+    {
+      "department": "Electronics & Telecommunication Engineering",
+      "location": "Building E5",
+      "area": "VLSI Design",
+      "areaSquareFeet": 1550,
+      "facultyPartnerIds": [ "668a7034a254f2e8916fb3be"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3e0"],
+      "description": "Laboratory specializing in VLSI design and semiconductor technology.",
+      "imageUrls": [
+        "https://example.com/lab15.jpg",
+        "https://example.com/lab15a.jpg"
+      ]
+    },
+  
+    {
+      "department": "Information Technology",
+      "location": "Building I1",
+      "area": "Cloud Computing",
+      "areaSquareFeet": 1400,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d9"],
+      "description": "Laboratory dedicated to cloud computing and virtualization.",
+      "imageUrls": [
+        "https://example.com/lab16.jpg",
+        "https://example.com/lab16a.jpg"
+      ]
+    },
+    {
+      "department": "Information Technology",
+      "location": "Building I2",
+      "area": "Cybersecurity",
+      "areaSquareFeet": 1300,
+      "facultyPartnerIds": [ "668a7034a254f2e8916fb3be"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory specializing in cybersecurity technologies and threat analysis.",
+      "imageUrls": [
+        "https://example.com/lab17.jpg",
+        "https://example.com/lab17a.jpg"
+      ]
+    },
+    {
+      "department": "Information Technology",
+      "location": "Building I3",
+      "area": "Big Data Analytics",
+      "areaSquareFeet": 1500,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c1"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d8"],
+      "description": "Laboratory focusing on big data analytics and business intelligence.",
+      "imageUrls": [
+        "https://example.com/lab18.jpg",
+        "https://example.com/lab18a.jpg"
+      ]
+    },
+    {
+      "department": "Information Technology",
+      "location": "Building I4",
+      "area": "Blockchain Technology",
+      "areaSquareFeet": 1250,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c0"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d7"],
+      "description": "Laboratory dedicated to blockchain technology research and applications.",
+      "imageUrls": [
+        "https://example.com/lab19.jpg",
+        "https://example.com/lab19a.jpg"
+      ]
+    },
+    {
+      "department": "Information Technology",
+      "location": "Building I5",
+      "area": "Mobile Application Development",
+      "areaSquareFeet": 1350,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c3"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3da"],
+      "description": "Laboratory focusing on mobile application development and usability testing.",
+      "imageUrls": [
+        "https://example.com/lab20.jpg",
+        "https://example.com/lab20a.jpg"
+      ]
+    },
+  
+    {
+      "department": "Mechanical Engineering",
+      "location": "Building M1",
+      "area": "Robotics",
+      "areaSquareFeet": 1600,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3e0"],
+      "description": "Laboratory dedicated to robotics research and automation.",
+      "imageUrls": [
+        "https://example.com/lab21.jpg",
+        "https://example.com/lab21a.jpg"
+      ]
+    },
+    {
+      "department": "Mechanical Engineering",
+      "location": "Building M2",
+      "area": "Automotive Engineering",
+      "areaSquareFeet": 1450,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c1"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory focusing on automotive design and vehicle testing.",
+      "imageUrls": [
+        "https://example.com/lab22.jpg",
+        "https://example.com/lab22a.jpg"
+      ]
+    },
+    {
+      "department": "Mechanical Engineering",
+      "location": "Building M3",
+      "area": "Thermal Engineering",
+      "areaSquareFeet": 1700,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3ba"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3e0"],
+      "description": "Laboratory specializing in thermal dynamics and energy systems.",
+      "imageUrls": [
+        "https://example.com/lab23.jpg",
+        "https://example.com/lab23a.jpg"
+      ]
+    },
+    {
+      "department": "Mechanical Engineering",
+      "location": "Building M4",
+      "area": "Materials Science",
+      "areaSquareFeet": 1400,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bf"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d8"],
+      "description": "Laboratory focused on materials research and metallurgy.",
+      "imageUrls": [
+        "https://example.com/lab24.jpg",
+        "https://example.com/lab24a.jpg"
+      ]
+    },
+    {
+      "department": "Mechanical Engineering",
+      "location": "Building M5",
+      "area": "Fluid Mechanics",
+      "areaSquareFeet": 1550,
+      "facultyPartnerIds": [ "668a7034a254f2e8916fb3be"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3da"],
+      "description": "Laboratory specializing in fluid mechanics and aerodynamics.",
+      "imageUrls": [
+        "https://example.com/lab25.jpg",
+        "https://example.com/lab25a.jpg"
+      ]
+    },
+  
+    {
+      "department": "AI and DS",
+      "location": "Building AID1",
+      "area": "Machine Learning",
+      "areaSquareFeet": 1450,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c1"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory specializing in machine learning algorithms and applications.",
+      "imageUrls": [
+        "https://example.com/lab31.jpg",
+        "https://example.com/lab31a.jpg"
+      ]
+    },
+    {
+      "department": "AI and DS",
+      "location": "Building AID2",
+      "area": "Natural Language Processing",
+      "areaSquareFeet": 1350,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c3"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d8"],
+      "description": "Laboratory focusing on natural language processing techniques and applications.",
+      "imageUrls": [
+        "https://example.com/lab32.jpg",
+        "https://example.com/lab32a.jpg"
+      ]
+    },
+    {
+      "department": "AI and DS",
+      "location": "Building AID3",
+      "area": "Computer Vision",
+      "areaSquareFeet": 1500,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d8"],
+      "description": "Laboratory dedicated to computer vision research and image processing.",
+      "imageUrls": [
+        "https://example.com/lab33.jpg",
+        "https://example.com/lab33a.jpg"
+      ]
+    },
+    {
+      "department": "AI and DS",
+      "location": "Building AID4",
+      "area": "Deep Learning",
+      "areaSquareFeet": 1400,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3ba"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory specializing in deep learning algorithms and neural networks.",
+      "imageUrls": [
+        "https://example.com/lab34.jpg",
+        "https://example.com/lab34a.jpg"
+      ]
+    },
+    {
+      "department": "AI and DS",
+      "location": "Building AID5",
+      "area": "Data Mining",
+      "areaSquareFeet": 1300,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3b9"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3e0"],
+      "description": "Laboratory focusing on data mining techniques and predictive analytics.",
+      "imageUrls": [
+        "https://example.com/lab35.jpg",
+        "https://example.com/lab35a.jpg"
+      ]
+    },
+  
+    {
+      "department": "CSE (AI & ML)",
+      "location": "Building CAM1",
+      "area": "Machine Learning",
+      "areaSquareFeet": 1400,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3dd"],
+      "description": "Laboratory specializing in machine learning algorithms and applications.",
+      "imageUrls": [
+        "https://example.com/lab41.jpg",
+        "https://example.com/lab41a.jpg"
+      ]
+    },
+    {
+      "department": "CSE (AI & ML)",
+      "location": "Building CAM2",
+      "area": "Deep Learning",
+      "areaSquareFeet": 1350,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bd"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory focused on deep learning models and neural networks.",
+      "imageUrls": [
+        "https://example.com/lab42.jpg",
+        "https://example.com/lab42a.jpg"
+      ]
+    },
+    {
+      "department": "CSE (AI & ML)",
+      "location": "Building CAM3",
+      "area": "Reinforcement Learning",
+      "areaSquareFeet": 1500,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3ba"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d8"],
+      "description": "Laboratory specializing in reinforcement learning algorithms and applications.",
+      "imageUrls": [
+        "https://example.com/lab43.jpg",
+        "https://example.com/lab43a.jpg"
+      ]
+    },
+    {
+      "department": "CSE (AI & ML)",
+      "location": "Building CAM4",
+      "area": "AI Ethics",
+      "areaSquareFeet": 1450,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3ba"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3e0"],
+      "description": "Laboratory dedicated to research on ethics in AI and machine learning.",
+      "imageUrls": [
+        "https://example.com/lab44.jpg",
+        "https://example.com/lab44a.jpg"
+      ]
+    },
+    {
+      "department": "CSE (AI & ML)",
+      "location": "Building CAM5",
+      "area": "Natural Language Processing",
+      "areaSquareFeet": 1300,
+      "facultyPartnerIds": [ "668a7034a254f2e8916fb3be"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory focusing on natural language processing and text mining.",
+      "imageUrls": [
+        "https://example.com/lab45.jpg",
+        "https://example.com/lab45a.jpg"
+      ]
+    },
+  
+    {
+      "department": "CSE (IoT, CS & BT)",
+      "location": "Building CIB1",
+      "area": "Internet of Things",
+      "areaSquareFeet": 1400,
+      "facultyPartnerIds": [ "668a7034a254f2e8916fb3be"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3e0"],
+      "description": "Laboratory dedicated to IoT applications and sensor networks.",
+      "imageUrls": [
+        "https://example.com/lab46.jpg",
+        "https://example.com/lab46a.jpg"
+      ]
+    },
+    {
+      "department": "CSE (IoT, CS & BT)",
+      "location": "Building CIB2",
+      "area": "Cyber-Physical Systems",
+      "areaSquareFeet": 1350,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3dd"],
+      "description": "Laboratory specializing in cyber-physical systems and integration.",
+      "imageUrls": [
+        "https://example.com/lab47.jpg",
+        "https://example.com/lab47a.jpg"
+      ]
+    },
+    {
+      "department": "CSE (IoT, CS & BT)",
+      "location": "Building CIB3",
+      "area": "Bioinformatics",
+      "areaSquareFeet": 1500,
+      "facultyPartnerIds": [ "668a7034a254f2e8916fb3be"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory focusing on bioinformatics and computational biology.",
+      "imageUrls": [
+        "https://example.com/lab48.jpg",
+        "https://example.com/lab48a.jpg"
+      ]
+    },
+    {
+      "department": "CSE (IoT, CS & BT)",
+      "location": "Building CIB4",
+      "area": "Smart Cities",
+      "areaSquareFeet": 1450,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bc"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3dc"],
+      "description": "Laboratory dedicated to research on smart city technologies and applications.",
+      "imageUrls": [
+        "https://example.com/lab49.jpg",
+        "https://example.com/lab49a.jpg"
+      ]
+    },
+    {
+      "department": "CSE (IoT, CS & BT)",
+      "location": "Building CIB5",
+      "area": "Computational Sustainability",
+      "areaSquareFeet": 1300,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3ba"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d7"],
+      "description": "Laboratory focusing on sustainable computing and environmental applications.",
+      "imageUrls": [
+        "https://example.com/lab50.jpg",
+        "https://example.com/lab50a.jpg"
+      ]
+    },
+  
+   
+    {
+      "department": "CE (Cybersecurity)",
+      "location": "Building CEC2",
+      "area": "Cryptography",
+      "areaSquareFeet": 1350,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3b9"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d5"],
+      "description": "Laboratory focusing on cryptographic algorithms and secure communication.",
+      "imageUrls": [
+        "https://example.com/lab57.jpg",
+        "https://example.com/lab57a.jpg"
+      ]
+    },
+    {
+      "department": "CE (Cybersecurity)",
+      "location": "Building CEC3",
+      "area": "Digital Forensics",
+      "areaSquareFeet": 1500,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3e0"],
+      "description": "Laboratory dedicated to digital forensics and cybercrime investigation.",
+      "imageUrls": [
+        "https://example.com/lab58.jpg",
+        "https://example.com/lab58a.jpg"
+      ]
+    },
+    {
+      "department": "CE (Cybersecurity)",
+      "location": "Building CEC4",
+      "area": "Information Assurance",
+      "areaSquareFeet": 1450,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6"],
+      "description": "Laboratory focusing on information assurance and security policy.",
+      "imageUrls": [
+        "https://example.com/lab59.jpg",
+        "https://example.com/lab59a.jpg"
+      ]
+    },
+    {
+      "department": "CE (Cybersecurity)",
+      "location": "Building CEC5",
+      "area": "Security Analytics",
+      "areaSquareFeet": 1300,
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bc"],
+      "industryPartnerIds": ["668a7034a254f2e8916fb3bb"],
+      "description": "Laboratory specializing in security analytics and threat intelligence.",
+      "imageUrls": [
+        "https://example.com/lab60.jpg",
+        "https://example.com/lab60a.jpg"
+      ]
+    }
+  ]

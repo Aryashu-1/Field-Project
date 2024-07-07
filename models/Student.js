@@ -17,24 +17,29 @@ const StudentSchema = new mongoose.Schema({
     type: [String]
   },
   internshipId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'Internship'
-  },
+    ref: 'Internship'}]
+  },  
   courseId: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: 'Course'
+    type:[{
+    type: mongoose.Schema.Types.ObjectId,  
+    ref: 'Course'}]
   },
   startUpId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'Startup'
+    ref: 'Startup'}]
   },
   researchPaperId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'ResearchPaper'
+    ref: 'ResearchPaper'}]
   },
   guestLectureId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'GuestLecture'
+    ref: 'GuestLecture'}]
   },
   industryVisitId: {
     type: [{

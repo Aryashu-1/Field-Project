@@ -1,0 +1,211 @@
+[
+    {
+      "name": "Tech Research Hub",
+      "location": "San Francisco, CA",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3ba"],
+      "studentId": ["668a6cafa254f2e8916fb3a1"],
+      "industryId": ["668a754ea254f2e8916fb3c9"],
+      "focus": "Artificial Intelligence",
+      "description": "A leading center for AI research and development.",
+      "imageUrls": [
+        "https://www.biocon.com/wp-content/uploads/2020/09/Scientists-at-Biocon-state-of-the-art-RD-Centre-Biocon-Park-1.jpg"
+      ],
+      "address": "1234 Innovation Drive, San Francisco, CA 94107",
+      "industryPartnerIds": ["668a793da254f2e8916fb3db"]
+    },
+    {
+      "name": "GreenTech Innovation Center",
+      "location": "Austin, TX",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bb"],
+      "studentId": ["668a6cafa254f2e8916fb3a2"],
+      "industryId": ["668a754ea254f2e8916fb3cc"],
+      "focus": "Sustainable Technologies",
+      "description": "Dedicated to advancing green technology and sustainability.",
+      "imageUrls": [
+        "https://mir-s3-cdn-cf.behance.net/projects/404/ea6e31148808649.Y3JvcCw0OTAxLDM4MzQsOTEwLDA.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9J3Piobkf-xfSh1aVNyZnDpSnfm2kKPF9zg&s"
+      ],
+      "address": "5678 Eco Way, Austin, TX 78701",
+      "industryPartnerIds": ["668a793da254f2e8916fb3d7"]
+    },
+    {
+      "name": "BioTech Research Institute",
+      "location": "Boston, MA",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bc"],
+      "studentId": ["668a6cafa254f2e8916fb3a3"],
+      "industryId": ["668a754ea254f2e8916fb3cd"],
+      "focus": "Biotechnology",
+      "description": "Pioneering research in biotechnology and life sciences.",
+      "imageUrls": [
+        "https://www.nih.gov/sites/default/files/styles/featured_media_breakpoint-medium/public/about-nih/porter-building-outside-rendering_0.jpg?itok=fvTsPbZA&timestamp=1439239208",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0qogtKIrLiyQz5uTE8P6ytiUN5Y72MGuUA&s"
+      ],
+      "address": "9101 Genome Road, Boston, MA 02115",
+      "industryPartnerIds": ["668a793da254f2e8916fb3d9"]
+    },
+    {
+      "name": "Future Mobility Center",
+      "location": "Detroit, MI",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bd"],
+      "studentId": ["668a6cafa254f2e8916fb3a4"],
+      "industryId": ["668a754ea254f2e8916fb3ce"],
+      "focus": "Automotive Innovation",
+      "description": "Exploring the future of transportation and mobility.",
+      "imageUrls": [
+        "https://www.arch2o.com/wp-content/uploads/2017/05/Arch2O-langara-science-technology-building-teeple-architects-15.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8fVKYZvi2cgkhzcDmyQGCdJlHtADbKE6CA&s"
+      ],
+      "address": "123 Drive Lane, Detroit, MI 48201",
+      "industryPartnerIds": ["668a793da254f2e8916fb3da"]
+    },
+    {
+      "name": "Quantum Computing Lab",
+      "location": "Palo Alto, CA",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3ba"],
+      "studentId": ["668a6cafa254f2e8916fb3a5"],
+      "industryId": ["668a754ea254f2e8916fb3cf"],
+      "focus": "Quantum Computing",
+      "description": "Advancing the field of quantum computing.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuopTmsFQU8zk8VqIVqt-SUJI0S30RKumpw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYViBaC-t4XHXw4pedpGs5uXOo-X-hKJ1ZA&s"
+      ],
+      "address": "456 Quantum Road, Palo Alto, CA 94301",
+      "industryPartnerIds": ["668a793da254f2e8916fb3db"]
+    },
+    {
+      "name": "AI Research Institute",
+      "location": "Seattle, WA",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3be"],
+      "studentId": ["668a6cafa254f2e8916fb3a6"],
+      "industryId": ["668a754ea254f2e8916fb3d0"],
+      "focus": "Artificial Intelligence",
+      "description": "Leading AI research and development center.",
+      "imageUrls": [
+        "https://images.adsttc.com/media/images/64db/bef6/fbc6/5840/d273/0e65/medium_jpg/european-spallation-source-buro-happold-plus-henning-larsen-plus-cobe-plus-sla-architects_23.jpg?1692122895",
+        "https://static.toiimg.com/thumb/msid-105551336,width-1280,height-720,resizemode-4/105551336.jpg"
+      ],
+      "address": "789 ML Drive, Seattle, WA 98101",
+      "industryPartnerIds": ["668a793da254f2e8916fb3dc"]
+    },
+    {
+      "name": "Space Technology Center",
+      "location": "Houston, TX",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bf"],
+      "studentId": ["668a6cafa254f2e8916fb3a7"],
+      "industryId": ["668a754ea254f2e8916fb3d1"],
+      "focus": "Space Exploration",
+      "description": "Pushing the boundaries of space technology.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmOddGrnFLgT0CuNoVE_UAbvHyeVN7PaLm3A&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcTH0zgWJuN4Spj5FLRcz3orjOb8NZu9cJaA&s"
+      ],
+      "address": "101 Galaxy Avenue, Houston, TX 77001",
+      "industryPartnerIds": ["668a793da254f2e8916fb3dd"]
+    },
+    {
+      "name": "Healthcare Innovation Lab",
+      "location": "New York, NY",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c0"],
+      "studentId": ["668a6cafa254f2e8916fb3a8"],
+      "industryId": ["668a754ea254f2e8916fb3d2"],
+      "focus": "Healthcare Technology",
+      "description": "Innovating healthcare solutions through technology.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAF7xsxz3YMs7M_jzebKklWEBaii1ahvICow&s",
+        "https://www.ku.ac.ae/wp-content/uploads/2020/01/DX2_6884-1-e1578293905776.jpg"
+      ],
+      "address": "234 MedTech Drive, New York, NY 10001",
+      "industryPartnerIds": ["668a793da254f2e8916fb3de"]
+    },
+    {
+      "name": "Renewable Energy Research Center",
+      "location": "Denver, CO",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c1"],
+      "studentId": ["668a6cafa254f2e8916fb3a9"],
+      "industryId": ["668a754ea254f2e8916fb3d3"],
+      "focus": "Renewable Energy",
+      "description": "Researching sustainable energy solutions for the future.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnU-hJv8CwV7R1t0xw9D3UqNX8zrHKrEBGg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7t-5zTQXPKBTOefrBge63D20IyoszCBz3w&s"
+      ],
+      "address": "345 Solar Avenue, Denver, CO 80201",
+      "industryPartnerIds": ["668a793da254f2e8916fb3df"]
+    },
+    {
+      "name": "Cybersecurity Innovation Center",
+      "location": "Washington, D.C.",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c2"],
+      "studentId": ["668a6cafa254f2e8916fb3aa"],
+      "industryId": ["668a754ea254f2e8916fb3d4"],
+      "focus": "Cybersecurity",
+      "description": "Advancing cybersecurity technologies and strategies.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhjV2c-8yrl9wS4h9Zpa0Bqy2zzzBbukw8Q&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6sC4fMo7eWCHg_nHSe7Cdpw8mQWdZKqlJg&s"
+      ],
+      "address": "456 Cyber Blvd, Washington, D.C. 20001",
+      "industryPartnerIds": ["668a793da254f2e8916fb3e0"]
+    },
+    {
+      "name": "Blockchain Research Institute",
+      "location": "San Jose, CA",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c3"],
+      "studentId": ["668a6cafa254f2e8916fb3ab"],
+      "industryId": ["668a754ea254f2e8916fb3d5"],
+      "focus": "Blockchain Technology",
+      "description": "Leading research in blockchain technology and applications.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQXf9aSseHfZ9zOZItRy3hqK0XYw7SZJ-Zw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmCK9vhfiB1p76MfUKOPlmo8jVc7_Jl4eFg&s"
+      ],
+      "address": "567 BlockChain Drive, San Jose, CA 95101",
+      "industryPartnerIds": ["668a793da254f2e8916fb3e1"]
+    },
+    {
+      "name": "AgriTech Innovation Center",
+      "location": "Chicago, IL",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c4"],
+      "studentId": ["668a6cafa254f2e8916fb3ac"],
+      "industryId": ["668a754ea254f2e8916fb3d6"],
+      "focus": "Agricultural Technology",
+      "description": "Innovating agricultural technology for sustainable farming.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Vuk5KUM1i6b1tWS2UEP4Ku39rdZJwT3e5g&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP4ZU4ayy4rph5aHmN4qM3fZdEh4ZYJHCF3Q&s"
+      ],
+      "address": "789 AgriTech Blvd, Chicago, IL 60601",
+      "industryPartnerIds": ["668a793da254f2e8916fb3e2"]
+    },
+    {
+      "name": "Virtual Reality Lab",
+      "location": "Los Angeles, CA",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c5"],
+      "studentId": ["668a6cafa254f2e8916fb3ad"],
+      "industryId": ["668a754ea254f2e8916fb3c7"],
+      "focus": "Virtual Reality",
+      "description": "Exploring the future of virtual reality and immersive experiences.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSD7OFq5gKr-FB1z3wb4DgZdd6X0YoeLcTQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyEgucODiaI0cLTg1mOZwcb8WJ7CLjMnR5w&s"
+      ],
+      "address": "910 VR Drive, Los Angeles, CA 90001",
+      "industryPartnerIds": ["668a793da254f2e8916fb3e3"]
+    },
+    {
+      "name": "Marine Biology Research Center",
+      "location": "Miami, FL",
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c6"],
+      "studentId": ["668a6cafa254f2e8916fb3ae"],
+      "industryId": ["668a754ea254f2e8916fb3c8"],
+      "focus": "Marine Biology",
+      "description": "Researching marine ecosystems and biology.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6k2XJ1hThnL6_Lv8eXVgkErf6lGmJ9XYKZg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkFUaR6MBG07Gix9fJnydd8Q3bJf1JX0RXpQ&s"
+      ],
+      "address": "123 Ocean Avenue, Miami, FL 33101",
+      "industryPartnerIds": ["668a793da254f2e8916fb3e4"]
+    }
+]

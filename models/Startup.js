@@ -24,8 +24,10 @@ const StartupSchema = new mongoose.Schema({
       ref: 'FacultyPartner'
     }]
   },
-  industryPartnersInvolved: {
-    type: [String]
+  industryIds: {
+    type:[{
+      type: mongoose.Schema.Types.ObjectId,
+      ref:'IndustryPartner'}]
   }
 });
 

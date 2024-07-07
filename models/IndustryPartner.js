@@ -2,9 +2,10 @@ const mongoose = require('mongoose');
 
 const IndustryPartnerSchema = new mongoose.Schema({
   industryId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Industry',
-    required: true
+    required: true}]
   },
   name: {
     type: String,

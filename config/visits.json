@@ -1,0 +1,133 @@
+[
+    {
+      "name": "Tech Corp Visit",
+      "date": "2023-07-01T10:00:00Z",
+      "description": "A visit to Tech Corp to explore new technologies.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ftS7R-lw7k-T4QB_boPsYhoq2DNNZMyU-w&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ95uOnsr-NnIZgJ2w9N11jrlA9WH3ier4ew&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3c9","668a754ea254f2e8916fb3ca"],
+      "industryPartnerId": ["668a793da254f2e8916fb3d5","668a793da254f2e8916fb3d6"],
+      "studentId": ["668a793da254f2e8916fb3db","668a6cafa254f2e8916fb3a1"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3b9","668a7034a254f2e8916fb3ba"]
+    },
+    {
+      "name": "Innovate Inc. Tour",
+      "date": "2023-07-05T14:00:00Z",
+      "description": "Tour of Innovate Inc. to understand their product development process.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvk6mhySCI_4Q4snwalnu5zCB7FhrAs2BzFw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7eIp5o-PGPQm8wQcfVrnDm-dTxfwL071OA&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3ca","668a754ea254f2e8916fb3cb"],
+      "industryPartnerId": ["668a793da254f2e8916fb3d6","668a793da254f2e8916fb3d7"],
+      "studentId": ["668a6cafa254f2e8916fb3a1","668a6cafa254f2e8916fb3a2"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3ba","668a7034a254f2e8916fb3bb"]
+    },
+    {
+      "name": "GreenTech Visit",
+      "date": "2023-07-10T09:00:00Z",
+      "description": "Visit to GreenTech to learn about sustainable technologies.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnzDU450O7N-a1CSH0G9mxH--CeCRsoUXaOg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKTePNWyZTVMS3khvbjtPjLuRYpBEgzzl8A&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3cb","668a754ea254f2e8916fb3cc"],
+      "industryPartnerId": ["668a793da254f2e8916fb3d7","668a793da254f2e8916fb3d8"],
+      "studentId": ["668a6cafa254f2e8916fb3a2","668a6cafa254f2e8916fb3a3"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bb","668a7034a254f2e8916fb3bc"]
+    },
+    {
+      "name": "Future Solutions Tour",
+      "date": "2023-07-15T11:00:00Z",
+      "description": "Tour of Future Solutions to understand their innovative approaches.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1GDDxNr82EhL3ELFNRvzeM33UMWh2DvrjgA7wirWcRZmcvrCSCNvj-sSRzYP1d402aQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDymP2RkebiX9himGFsY2BmZaLkJbYM3wkMw&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3cc","668a754ea254f2e8916fb3cd"],
+      "industryPartnerId": ["668a793da254f2e8916fb3d8","668a793da254f2e8916fb3d9"],
+      "studentId": ["668a6cafa254f2e8916fb3a3","668a6cafa254f2e8916fb3a4"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bc","668a7034a254f2e8916fb3bd"]
+    },
+    {
+      "name": "Tech Innovators Visit",
+      "date": "2023-07-20T13:00:00Z",
+      "description": "Visit to Tech Innovators to see their latest projects.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YIHggTEgaevMDcoxIR1UFuiFSN9nZmOcRg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqAyRxeCmxJcOMefn90i7HvoaQIj9mPxSqrQ&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3cd","668a754ea254f2e8916fb3ce"],
+      "industryPartnerId": ["668a793da254f2e8916fb3d9","668a793da254f2e8916fb3da"],
+      "studentId": ["668a6cafa254f2e8916fb3a4","668a6cafa254f2e8916fb3a5"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bd","668a7034a254f2e8916fb3be"]
+    },
+    {
+      "name": "EcoTech Exploration",
+      "date": "2023-07-25T10:00:00Z",
+      "description": "Exploring sustainable solutions at EcoTech.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVuYD-uGm3MSr82nWg4ciCmIknh_8V-ertw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBdBuMgaksR-1FM1BzcoQ0u0E5w7Jc41Qlg&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3ce","668a754ea254f2e8916fb3c9"],
+      "industryPartnerId": ["668a793da254f2e8916fb3da","668a793da254f2e8916fb3db"],
+      "studentId": ["668a6cafa254f2e8916fb3a5","668a6cafa254f2e8916fb3a4"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3be","668a7034a254f2e8916fb3bf"]
+    },
+    {
+      "name": "Tech Giants Tour",
+      "date": "2023-07-30T12:00:00Z",
+      "description": "Tour of Tech Giants to see their cutting-edge technologies.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ftS7R-lw7k-T4QB_boPsYhoq2DNNZMyU-w&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ95uOnsr-NnIZgJ2w9N11jrlA9WH3ier4ew&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3c9","668a754ea254f2e8916fb3ca"],
+      "industryPartnerId": ["668a793da254f2e8916fb3db","668a793da254f2e8916fb3dc"],
+      "studentId": ["668a6cafa254f2e8916fb3a4","668a6cafa254f2e8916fb3a6"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3bf","668a7034a254f2e8916fb3c0"]
+    },
+    {
+      "name": "Innovators Meet",
+      "date": "2023-08-01T10:00:00Z",
+      "description": "Meet with innovators at Innovators Hub.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvk6mhySCI_4Q4snwalnu5zCB7FhrAs2BzFw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7eIp5o-PGPQm8wQcfVrnDm-dTxfwL071OA&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3ca","668a754ea254f2e8916fb3cb"],
+      "industryPartnerId": ["668a793da254f2e8916fb3dc","668a793da254f2e8916fb3dd"],
+      "studentId": ["668a6cafa254f2e8916fb3a6","668a6cafa254f2e8916fb3a7"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c0","668a7034a254f2e8916fb3c1"]
+    },
+    {
+      "name": "Tech Pioneers Visit",
+      "date": "2023-08-05T11:00:00Z",
+      "description": "Visit to Tech Pioneers to discuss future trends.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnzDU450O7N-a1CSH0G9mxH--CeCRsoUXaOg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKTePNWyZTVMS3khvbjtPjLuRYpBEgzzl8A&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3cb","668a754ea254f2e8916fb3cc"],
+      "industryPartnerId": ["668a793da254f2e8916fb3dd","668a793da254f2e8916fb3de"],
+      "studentId": ["668a6cafa254f2e8916fb3a7","668a6cafa254f2e8916fb3a8"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c1","668a7034a254f2e8916fb3c2"]
+    },
+    {
+      "name": "Future Tech Exploration",
+      "date": "2023-08-10T09:00:00Z",
+      "description": "Exploration of future tech solutions at Future Tech.",
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1GDDxNr82EhL3ELFNRvzeM33UMWh2DvrjgA7wirWcRZmcvrCSCNvj-sSRzYP1d402aQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDymP2RkebiX9himGFsY2BmZaLkJbYM3wkMw&usqp=CAU"
+      ],
+      "industryId": ["668a754ea254f2e8916fb3cc","668a754ea254f2e8916fb3cd"],
+      "industryPartnerId": ["668a793da254f2e8916fb3de","668a793da254f2e8916fb3df"],
+      "studentId": ["668a6cafa254f2e8916fb3a8","668a6cafa254f2e8916fb3a9"],
+      "facultyPartnerId": ["668a7034a254f2e8916fb3c2","668a7034a254f2e8916fb3c3"]
+    }
+  ]
+  

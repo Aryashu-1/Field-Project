@@ -17,20 +17,24 @@ const VisitSchema = new mongoose.Schema({
     type: [String]
   },
   industryId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'Industry'
+    ref: 'Industry'}]
   },
   industryPartnerId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'IndustryPartner'
+    ref: 'IndustryPartner'}]
   },
   studentId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'Student'
+    ref: 'Student'}]
   },
   facultyPartnerId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'FacultyPartner'
+    ref: 'FacultyPartner'}]
   }
 });
 

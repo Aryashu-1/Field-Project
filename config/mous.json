@@ -1,0 +1,87 @@
+[
+    {
+      "name": "CCoE Cyber Security Centre of Excellence",
+      "url": "https://www.dsci.in/files/content/media/images/2023/C-COE.webp",
+      "address": "Hyderabad, Telangana",
+      "validity": "07-02-2023 to 06-02-2026",
+      "duration": "3 Years",
+      "isActive": true,
+      "agreementDate": "2023-07-02T00:00:00.000Z"
+    },
+    {
+      "name": "AAP Advanced Auto Parts Global Capability Center",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3iBPUIASehtFPR-jPeNmsmmcE6bhWMyTi8w&s",
+      "address": "",
+      "validity": "21-06-2022 to 20-06-2025",
+      "duration": "3 Years",
+      "isActive": false
+    },
+    {
+      "name": "Aarth Software Private Limited",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0schfIf1FTg60VfxDbLO-eZXgN6KcqU1PQ&s",
+      "address": "Hyderabad, Telangana",
+      "validity": "22-04-2022 to 21-04-2024",
+      "duration": "2 Years",
+      "isActive": false
+    },
+ 
+    {
+      "name": "UNPLATFORMS",
+      "url": "https://media.licdn.com/dms/image/D560BAQF75uvkFqPHbQ/company-logo_200_200/0/1696419532663/unplatforms_logo?e=2147483647&v=beta&t=leTVMqtsBlomXX7roZ5Qmu30QDddhO1qGOVpQvKxiK4",
+      "address": "TEXAS, USA",
+      "validity": "19-11-2021 to 18-11-2026",
+      "duration": "5 Years",
+      "isActive": false
+    },
+    {
+      "name": "Aptech Delivery Partner Private Limited",
+      "url": "https://media.licdn.com/dms/image/D4D0BAQGYa4dM0JJzwA/company-logo_200_200/0/1665542309946?e=2147483647&v=beta&t=4izKp6pyXhkipaezIJoLyTFCOwueaQVB8WV3CoZAvgA",
+      "address": "Hyderabad, Telangana",
+      "validity": "01-11-2021 to 31-10-2023",
+      "duration": "3 Years",
+      "isActive": false
+    },
+
+    {
+      "name": "TCS-ion, Private Limited",
+      "url": "https://m.economictimes.com/thumb/msid-74544284,width-1200,height-900,resizemode-4,imgsize-869945/tcs-getty.jpg",
+      "address": "Hyderabad, Telangana",
+      "validity": "01-09-2020 to 31-08-2023",
+      "duration": "3 Years",
+      "isActive": false
+    },
+    {
+      "name": "Talent Sprint Private Ltd",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/2101258-large.png",
+      "address": "PSR Prime towers, Cyber City gate 1, Gachibowli, Hyderabad",
+      "validity": "01-06-2020 to 31-05-2025",
+      "duration": "5 Years",
+      "isActive": false
+    },
+    {
+      "name": "Directi Internet Solutions Private Limited",
+      "url": "https://media.licdn.com/dms/image/C560BAQHxsLeIiy6Jjw/company-logo_200_200/0/1631330375488?e=2147483647&v=beta&t=8HcNxFORg4B4npGLyrY9cTqE4ns4bkGmF87arFwygZc",
+      "address": "Andheri East, Mumbai",
+      "validity": "11-11-2019 to 10-11-2024",
+      "duration": "5 Years",
+      "isActive": false
+    },
+    {
+      "name": "Thalassemia and Sickle Cell Society",
+      "url": "https://i.ytimg.com/vi/2bRIRvOP87E/maxresdefault.jpg",
+      "address": "Rajendranagar, Hyderabad",
+      "validity": "15-10-2019 to 30-09-2022",
+      "duration": "3 Years",
+      "isActive": false
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/19/full/1681892675-9443.jpg?im=FitAndFill=(826,465)",
+      "address": "TCS House, Raveline Street, 21 D.S.Marg, Fort, Mumbai",
+      "validity": "10-07-2019 to 09-07-2024",
+      "duration": "5 Years",
+      "isActive": false
+    }
+  
+    
+  ]

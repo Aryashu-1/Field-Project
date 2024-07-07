@@ -6,9 +6,10 @@ const GuestLectureSchema = new mongoose.Schema({
     required: true
   },
   IndustryPartner: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
     ref: 'IndustryPartner',
-    required: true
+    required: true}]
   },
   date: {
     type: Date,
@@ -31,12 +32,14 @@ const GuestLectureSchema = new mongoose.Schema({
     required: true
   },
   facultyPartnerIds: {
+    type:[{
     type: [mongoose.Schema.Types.ObjectId],
-    ref: 'FacultyPartner'
+    ref: 'FacultyPartner'}]
   },
   studentPartnerIds: {
+    type:[{
     type: [mongoose.Schema.Types.ObjectId],
-    ref: 'Student'
+    ref: 'Student'}]
   },
   upcoming: {
     type: Boolean,

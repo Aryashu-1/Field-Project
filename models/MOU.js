@@ -6,8 +6,9 @@ const MOUSchema = new mongoose.Schema({
     required: true
   },
   industryId: {
+    type:[{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'Industry'
+    ref: 'Industry'}]
   },
   validity: {
     type: String,

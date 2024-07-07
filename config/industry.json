@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Meta",
+      "description": "Meta Platforms, Inc., formerly known as Facebook, Inc., is a multinational technology conglomerate.",
+      "imageUrls": ["https://tse3.mm.bing.net/th?id=OIP.qcPWF-Vfi7DrzW_sm2g09AHaEK&pid=Api&P=0&h=180", "https://tse2.mm.bing.net/th?id=OIP.2vbAxSs49DxFIBJ6s9k2ygHaEK&pid=Api&P=0&h=180"],
+      "industryPartnerIds": ["", ""],
+      "location": "Menlo Park, California, USA"
+    },
+    {
+      "name": "Apple",
+      "description": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software, and online services.",
+      "imageUrls": ["https://tse2.mm.bing.net/th?id=OIP.ZtrNE9GnhsrUDpGXFZ2gagHaJG&pid=Api&P=0&h=180", "https://tse3.mm.bing.net/th?id=OIP.uzK6BAf_7Kfx2hEcMa6j1wHaD3&pid=Api&P=0&h=180"],
+      "industryPartnerIds": ["", ""],
+      "location": "Cupertino, California, USA"
+    },
+    {
+      "name": "Amazon",
+      "description": "Amazon.com, Inc. is an American multinational conglomerate that focuses on e-commerce, cloud computing, and artificial intelligence.",
+      "imageUrls": ["https://tse3.mm.bing.net/th?id=OIP.Ku4iy6JfyZOZAKxOkfp0ewAAAA&pid=Api&P=0&h=180", "https://tse4.mm.bing.net/th?id=OIP.SGQtxWJuNeyvaoLBuGr5cwHaEs&pid=Api&P=0&h=180"],
+      "industryPartnerIds": ["", ""],
+      "location": "Seattle, Washington, USA"
+    },
+    {
+      "name": "Netflix",
+      "description": "Netflix, Inc. is an American subscription streaming service and production company.",
+      "imageUrls": ["https://tse4.mm.bing.net/th?id=OIF.x9GfD7fcxTjIwcSkVBeHNw&pid=Api&P=0&h=180", "https://tse1.mm.bing.net/th?id=OIP.sqOzUJELbhvO-wTNv5hI2AHaE7&pid=Api&P=0&h=180"],
+      "industryPartnerIds": ["", ""],
+      "location": "Los Gatos, California, USA"
+    },
+    {
+      "name": "Google",
+      "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products.",
+      "imageUrls": ["https://akm-img-a-in.tosshub.com/indiatoday/images/story/202401/google-announces-laying-off-of-1000-employees-read-the-full-email-163003149-16x9.jpeg?VersionId=qrFpMDzHvzCWSefy3p34b7RvOhr6CcqK", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39m7Ns8KOhN6ldrU-45SgH7T3OE5yl5BrUQ&s"],
+      "industryPartnerIds": ["", ""],
+      "location": "Mountain View, California, USA"
+    },
+    {
+      "name": "TCS",
+      "description": "Tata Consultancy Services is an Indian multinational information technology services and consulting company.",
+      "imageUrls": ["https://tse4.mm.bing.net/th?id=OIP.iz0l2PLYQDTZgy32ELt1UAHaEa&pid=Api&P=0&h=180", "https://tse2.mm.bing.net/th?id=OIP._ellEwIcLh7vJ6OZjF-zAQAAAA&pid=Api&P=0&h=180"],
+      "industryPartnerIds": ["", ""],
+      "location": "Mumbai, Maharashtra, India"
+    }
+  ]

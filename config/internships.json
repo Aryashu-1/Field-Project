@@ -1,0 +1,90 @@
+[
+    {
+      "companyName": "Meta AI Research",
+      "stipend": 25000,
+      "workFromHome": true,
+      "companyDescription": "Meta AI Research focuses on advancing artificial intelligence technologies.",
+      "jobDescription": "Develop and implement AI algorithms for social media analysis.",
+      "urlImage": "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png",
+      "location": "Remote",
+      "role": "AI Research Intern",
+      "fullTime": false,
+      "companyLogo": "https://cdn.pixabay.com/photo/2021/12/14/22/29/meta-6871457_1280.png",
+      "category": "Technology",
+      "studentIds": ["668a6cafa254f2e8916fb3a0", "668a6cafa254f2e8916fb3a1"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d5", "668a793da254f2e8916fb3db"],
+      "facultyPartnerIds": ["60d0fe4f5311236168a10c22", "60d0fe4f5311236168a10c23"]
+    }
+  ,
+  
+    {
+      "companyName": "Apple Inc.",
+      "stipend": 30000,
+      "workFromHome": false,
+      "companyDescription": "Apple Inc. designs and manufactures consumer electronics and software products.",
+      "jobDescription": "Develop iOS applications and assist in app testing and debugging.",
+      "urlImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYHD3mEzwkSgxHNJ98aKumNYs8bPl03b8GYw&s",
+      "location": "Cupertino, CA",
+      "role": "Software Engineering Intern",
+      "fullTime": false,
+      "companyLogo": "https://i.pinimg.com/736x/8d/f5/e7/8df5e76136dcba44841002494e01e050.jpg",
+      "category": "Technology",
+      "studentIds": ["668a6cafa254f2e8916fb3a2", "668a6cafa254f2e8916fb3a3"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d6", "668a793da254f2e8916fb3dc"],
+      "facultyPartners": ["668a7034a254f2e8916fb3bb", "668a7034a254f2e8916fb3bc"]
+    },
+   
+  
+    {
+      "companyName": "Amazon Web Services",
+      "stipend": 28000,
+      "workFromHome": true,
+      "companyDescription": "Amazon Web Services provides on-demand cloud computing platforms and APIs to individuals, companies, and governments.",
+      "jobDescription": "Develop cloud applications and assist in infrastructure management.",
+      "urlImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSR4sWGfuHCmHvYGFZVQvgRWI1CGQMSVVN2g&s",
+      "location": "Remote",
+      "role": "Cloud Development Intern",
+      "fullTime": false,
+      "companyLogo": "https://static.vecteezy.com/system/resources/previews/019/136/322/non_2x/amazon-logo-amazon-icon-free-free-vector.jpg",
+      "category": "Technology",
+      "studentIds": ["668a6cafa254f2e8916fb3a4", "668a6cafa254f2e8916fb3a5"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3dc", "668a793da254f2e8916fb3d7"],
+     "facultyPartners": ["668a7034a254f2e8916fb3bd", "668a7034a254f2e8916fb3be"]
+    },
+  
+  
+    {
+      "companyName": "Netflix Studios",
+      "stipend": 32000,
+      "workFromHome": false,
+      "companyDescription": "Netflix Studios produces and distributes TV series and films.",
+      "jobDescription": "Assist in content production and post-production activities.",
+      "urlImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdAsOfQAlCWqVI7AdcO7a5HPwSwS_PmBv4A&s",
+      "location": "Los Angeles, CA",
+      "role": "Film Production Intern",
+      "fullTime": false,
+      "companyLogo": "https://images.ctfassets.net/y2ske730sjqp/5QQ9SVIdc1tmkqrtFnG9U1/de758bba0f65dcc1c6bc1f31f161003d/BrandAssets_Logos_02-NSymbol.jpg?w=940",
+      "category": "Entertainment",
+      "studentIds": ["668a6cafa254f2e8916fb3a6", "668a6cafa254f2e8916fb3a7"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3dd", "668a793da254f2e8916fb3d8"],
+      "facultyPartners": ["668a7034a254f2e8916fb3bf", "668a7034a254f2e8916fb3c0"]
+    },
+  
+  
+    {
+      "companyName": "Google Cloud",
+      "stipend": 35000,
+      "workFromHome": true,
+      "companyDescription": "Google Cloud offers cloud computing and storage solutions.",
+      "jobDescription": "Develop applications using Google Cloud Platform services and APIs.",
+      "urlImage": "",
+      "location": "Remote",
+      "role": "Cloud Development Intern",
+      "fullTime": false,
+      "companyLogo": "",
+      "category": "Technology",
+      "studentIds": ["668a6cafa254f2e8916fb3a8", "668a6cafa254f2e8916fb3a9"],
+      "industryPartnerIds": ["668a793da254f2e8916fb3d9", "668a793da254f2e8916fb3de"],
+      "facultyPartners": ["668a7034a254f2e8916fb3c2", "668a7034a254f2e8916fb3c1"]
+    }
+  ]

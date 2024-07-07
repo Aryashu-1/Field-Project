@@ -10,16 +10,19 @@ const ResearchCenterSchema = new mongoose.Schema({
     required: true
   },
   facultyPartnerId: {
+    type: [{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'FacultyPartner'
+    ref: 'FacultyPartner'}]
   },
   studentId: {
+    type: [{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'Student'
+    ref: 'Student'}]
   },
   industryId: {
+    type: [{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'Industry'
+    ref: 'Industry' }]
   },
   focus: {
     type: String,

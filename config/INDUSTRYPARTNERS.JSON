@@ -1,0 +1,123 @@
+[
+    {
+      "industryId": ["668a754ea254f2e8916fb3c9"],
+      "imageUrls": ["https://tse3.mm.bing.net/th?id=OIP.OnJ9C4ufKn6XSu_YDkwZ_gHaEK&pid=Api&P=0&h=180"],
+      "name": "Meta Partner 1",
+      "details": "Partner with Meta for AI research.",
+      "socialMedia": ["http://twitter.com/metapartner1", "http://linkedin.com/in/metapartner1"],
+      "contact": ["+1-650-123-4567"],
+      "mail": ["metapartner1@meta.com"],
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3b9", "668a7034a254f2e8916fb3ba"]
+    },
+    {
+      "industryId": ["668a754ea254f2e8916fb3ca"],
+      "imageUrls": ["https://tse2.mm.bing.net/th?id=OIP.3qsMnUTHk9Zs8dA5meZsSwAAAA&pid=Api&P=0&h=180"],
+      "name": "Apple Partner 1",
+      "details": "Collaborator with Apple on hardware innovation.",
+      "socialMedia": ["http://twitter.com/applepartner1", "http://linkedin.com/in/applepartner1"],
+      "contact": ["+1-408-123-4567"],
+      "mail": ["applepartner1@apple.com"],
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bb", "668a7034a254f2e8916fb3bc"]
+    },
+    {
+      "industryId": [ "668a754ea254f2e8916fb3cb"],
+      "imageUrls": ["https://tse4.mm.bing.net/th?id=OIP.C90fOSjza-F3JBuPhXSimQHaEo&pid=Api&P=0&h=180"],
+      "name": "Amazon Partner 1",
+      "details": "Partner with Amazon on cloud services.",
+      "socialMedia": ["http://twitter.com/amazonpartner1", "http://linkedin.com/in/amazonpartner1"],
+      "contact": ["+1-206-123-4567"],
+      "mail": ["amazonpartner1@amazon.com"],
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bd", "668a7034a254f2e8916fb3be"]
+    },
+    {
+      "industryId": [ "668a754ea254f2e8916fb3cc"],
+      "imageUrls": ["https://tse1.mm.bing.net/th?id=OIP.Ko2MIOzzDlWu8a_1Xo8UAQAAAA&pid=Api&P=0&h=180"],
+      "name": "Netflix Partner 1",
+      "details": "Partner with Netflix on streaming technology.",
+      "socialMedia": ["http://twitter.com/netflixpartner1", "http://linkedin.com/in/netflixpartner1"],
+      "contact": ["+1-408-123-4567"],
+      "mail": ["netflixpartner1@netflix.com"],
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3bf", "668a7034a254f2e8916fb3c0"]
+    },
+    {
+      "industryId": ["668a754ea254f2e8916fb3cd"],
+      "imageUrls": ["https://tse2.mm.bing.net/th?id=OIP.9EQg5FbH4yibMngVebDfVAHaHa&pid=Api&P=0&h=180"],
+      "name": "Google Partner 1",
+      "details": "Partner with Google on search algorithms.",
+      "socialMedia": ["http://twitter.com/googlepartner1", "http://linkedin.com/in/googlepartner1"],
+      "contact": ["+1-650-123-4567"],
+      "mail": ["googlepartner1@google.com"],
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c1", "668a7034a254f2e8916fb3c2"]
+    },
+    {
+      "industryId": ["668a754ea254f2e8916fb3ce"],
+      "imageUrls": ["https://allvectorlogo.com/img/2017/02/tata-consultancy-services-tcs-logo.png"],
+      "name": "TCS Partner 1",
+      "details": "Partner with TCS on IT services.",
+      "socialMedia": ["http://twitter.com/tcspartner1", "http://linkedin.com/in/tcspartner1"],
+      "contact": ["+91-22-12345678"],
+      "mail": ["tcspartner1@tcs.com"],
+      "facultyPartnerIds": ["668a7034a254f2e8916fb3c3", "668a7034a254f2e8916fb3c4"]
+    },
+        {
+          "industryId": ["668a754ea254f2e8916fb3c9"],
+          "imageUrls": ["https://tse1.mm.bing.net/th?id=OIP.AwGBn0RaiFXEpXemdj-2LQHaLG&pid=Api&P=0&h=180"],
+          "name": "Meta Partner 2",
+          "details": "Partner with Meta on virtual reality projects.",
+          "socialMedia": ["http://twitter.com/metapartner2", "http://linkedin.com/in/metapartner2"],
+          "contact": ["+1-650-765-4321"],
+          "mail": ["metapartner2@meta.com"],
+          "facultyPartnerIds": ["668a7034a254f2e8916fb3b9", "668a7034a254f2e8916fb3ba"]
+        },
+        {
+          "industryId": ["668a754ea254f2e8916fb3ca"],
+          "imageUrls": ["https://tse1.explicit.bing.net/th?id=OIP.rw6Oa41JqcgWJhFd9wKOvwHaJh&pid=Api&P=0&h=180"],
+          "name": "Apple Partner 2",
+          "details": "Collaborator with Apple on software development.",
+          "socialMedia": ["http://twitter.com/applepartner2", "http://linkedin.com/in/applepartner2"],
+          "contact": ["+1-408-765-4321"],
+          "mail": ["applepartner2@apple.com"],
+          "facultyPartnerIds": ["668a7034a254f2e8916fb3bb", "668a7034a254f2e8916fb3bc"]
+        },
+        {
+          "industryId": ["668a754ea254f2e8916fb3cb"],
+          "imageUrls": ["http://1.bp.blogspot.com/-oFWiia40irA/T1xtRq27A3I/AAAAAAAAAEk/FmezNzVt5q8/s1600/Fasil+A.jpg"],
+          "name": "Amazon Partner 2",
+          "details": "Partner with Amazon on AI and machine learning.",
+          "socialMedia": ["http://twitter.com/amazonpartner2", "http://linkedin.com/in/amazonpartner2"],
+          "contact": ["+1-206-765-4321"],
+          "mail": ["amazonpartner2@amazon.com"],
+          "facultyPartnerIds": ["668a7034a254f2e8916fb3bd", "668a7034a254f2e8916fb3be"]
+        },
+        {
+        "industryId": ["668a754ea254f2e8916fb3cc"],
+          "imageUrls": ["https://tse2.mm.bing.net/th?id=OIP.O8vv9O4Ku4HvFQyep-NXMAHaLG&pid=Api&P=0&h=180"],
+          "name": "Netflix Partner 2",
+          "details": "Partner with Netflix on content delivery networks.",
+          "socialMedia": ["http://twitter.com/netflixpartner2", "http://linkedin.com/in/netflixpartner2"],
+          "contact": ["+1-408-765-4321"],
+          "mail": ["netflixpartner2@netflix.com"],
+          "facultyPartnerIds": ["668a7034a254f2e8916fb3bf", "668a7034a254f2e8916fb3c0"]
+        },
+        {
+          "industryId": ["668a754ea254f2e8916fb3cd"],
+          "imageUrls": ["https://tse2.mm.bing.net/th?id=OIP.XGhgkK8C_IYHjzdWalWQ4QHaLE&pid=Api&P=0&h=180"],
+          "name": "Google Partner 2",
+          "details": "Partner with Google on cloud computing.",
+          "socialMedia": ["http://twitter.com/googlepartner2", "http://linkedin.com/in/googlepartner2"],
+          "contact": ["+1-650-765-4321"],
+          "mail": ["googlepartner2@google.com"],
+          "facultyPartnerIds": ["668a7034a254f2e8916fb3c1", "668a7034a254f2e8916fb3c2"]
+        },
+        {
+          "industryId": ["668a754ea254f2e8916fb3ce"],
+          "imageUrls": ["https://tse2.mm.bing.net/th?id=OIP.Ck2Usj84bIh_SiI2QJ7b-QHaEp&pid=Api&P=0&h=180"],
+          "name": "TCS Partner 2",
+          "details": "Partner with TCS on business process outsourcing.",
+          "socialMedia": ["http://twitter.com/tcspartner2", "http://linkedin.com/in/tcspartner2"],
+          "contact": ["+91-22-87654321"],
+          "mail": ["tcspartner2@tcs.com"],
+          "facultyPartnerIds": ["668a7034a254f2e8916fb3c3", "668a7034a254f2e8916fb3c4"]
+        }
+      
+          ]

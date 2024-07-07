@@ -10,9 +10,10 @@ const IndustryDesignedCourseSchema = new mongoose.Schema({
     required: true
   },
   industryPartnerIds: {
+    type:[{
     type: [mongoose.Schema.Types.ObjectId],
     ref: 'IndustryPartner',
-    required: true
+    required: true}]
   },
   description: {
     type: String,
